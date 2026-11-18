@@ -11,3 +11,6 @@ __pycache__/
 # Editor / IDE
 .vscode/
 .idea/
+
+assets/images_backup/
+
