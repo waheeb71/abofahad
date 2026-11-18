@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /tools/
 
-Sitemap: https://reemalnufooth.com/sitemap.xml
+Sitemap: https://abofahad.zujajsecurit.com/sitemap.xml
