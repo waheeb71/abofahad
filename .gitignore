@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Python temp files
+node_modules/
+__pycache__/
+*.pyc
+
+# Editor / IDE
+.vscode/
+.idea/

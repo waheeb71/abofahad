@@ -1,0 +1,80 @@
+{
+  "glass-cubicles": {
+    "width": 1436,
+    "height": 3200,
+    "category": "partitions",
+    "alt": "قواطع زجاجية سكريت لأبواب الكبائن بداخل مبنى تجاري"
+  },
+  "office-gold": {
+    "width": 1200,
+    "height": 1600,
+    "category": "showers",
+    "alt": "كابينة شاور زجاجية بإكسسوارات ذهبية من تنفيذ مؤسسة ريم النفوذ"
+  },
+  "office-black-frame": {
+    "width": 1600,
+    "height": 2133,
+    "category": "offices",
+    "alt": "مكتب زجاجي بإطار أسود وأرضية خشبية من تنفيذ مؤسسة ريم النفوذ"
+  },
+  "shower-install": {
+    "width": 720,
+    "height": 973,
+    "category": "showers",
+    "alt": "شاور زجاجي سكريت بإكسسوارات سوداء وإغلاق محكم"
+  },
+  "storefront-install": {
+    "width": 1080,
+    "height": 812,
+    "category": "storefronts",
+    "alt": "فنيو مؤسسة ريم النفوذ أثناء تركيب واجهة زجاجية لمحل تجاري"
+  },
+  "facade-modern": {
+    "width": 720,
+    "height": 896,
+    "category": "facades",
+    "alt": "واجهات زجاجية حديثة لمجمع تجاري مع ألمنيوم"
+  },
+  "storefront-blue": {
+    "width": 1080,
+    "height": 588,
+    "category": "storefronts",
+    "alt": "واجهة محل تجاري بزجاج عاكس وألمنيوم أسود"
+  },
+  "storefront-glass": {
+    "width": 1399,
+    "height": 710,
+    "category": "storefronts",
+    "alt": "واجهة زجاجية بزجاج عاكس وألمنيوم أسود لمحل تجاري"
+  },
+  "partition-black": {
+    "width": 1600,
+    "height": 1200,
+    "category": "offices",
+    "alt": "قواطع زجاجية داخلية بإطار أسود في مساحة مكتبية"
+  },
+  "office-frosted-2": {
+    "width": 1044,
+    "height": 1280,
+    "category": "offices",
+    "alt": "قواطع زجاجية مصنفرة في مكتب مع أبواب زجاجية سوداء"
+  },
+  "office-black-2": {
+    "width": 1200,
+    "height": 1600,
+    "category": "offices",
+    "alt": "واجهات زجاجية داخلية للمكاتب بإطار ألمنيوم أسود"
+  },
+  "facade-concrete": {
+    "width": 1200,
+    "height": 1600,
+    "category": "facades",
+    "alt": "تركيب واجهات زجاجية لمبنى تجاري حديث"
+  },
+  "office-construction": {
+    "width": 1600,
+    "height": 1200,
+    "category": "offices",
+    "alt": "تنفيذ قواطع زجاجية لمكاتب أثناء أعمال التركيب"
+  }
+}

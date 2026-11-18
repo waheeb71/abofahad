@@ -1,0 +1,32 @@
+﻿{
+  "name": "ظ…ط¤ط³ط³ط© ط±ظٹظ… ط§ظ„ظ†ظپظˆط° ظ„ظ„ط²ط¬ط§ط¬ ط§ظ„ط³ظƒط±ظٹطھ ظˆط§ظ„ط£ظ„ظ…ظ†ظٹظˆظ…",
+  "short_name": "ط±ظٹظ… ط§ظ„ظ†ظپظˆط°",
+  "description": "طھظپطµظٹظ„ ظˆطھط±ظƒظٹط¨ ط§ظ„ط²ط¬ط§ط¬ ط§ظ„ط³ظƒط±ظٹطھ ظˆط§ظ„ط£ظ„ظ…ظ†ظٹظˆظ… ظˆط§ظ„ظˆط§ط¬ظ‡ط§طھ ط§ظ„ط²ط¬ط§ط¬ظٹط© ظپظٹ ط§ظ„ط±ظٹط§ط¶ ظˆط§ظ„ظ…ظ…ظ„ظƒط© ط§ظ„ط¹ط±ط¨ظٹط© ط§ظ„ط³ط¹ظˆط¯ظٹط©.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#08141f",
+  "icons": [
+    {
+      "src": "/assets/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
